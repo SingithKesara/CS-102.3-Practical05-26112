@@ -37,7 +37,11 @@ Q14)![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/
 Section B
 
 1.![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/114977489/706b4e6b-e944-4303-9fe0-ba876f3339ce)
+
 2.![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/114977489/9fa3f4e4-50de-4547-ac89-1d5801fe9836)
+
 3.![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/114977489/60c6f285-4d6c-427d-8554-8df93c8ec2b9)
+
 4.![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/114977489/85c28078-4f26-4c1d-af16-b916fc24e23e)
+
 5.![image](https://github.com/SingithKesara/CS-102.3-Practical05-26112/assets/114977489/dfd6241c-b2df-4a54-9b78-2e0d58b3d0f5)
